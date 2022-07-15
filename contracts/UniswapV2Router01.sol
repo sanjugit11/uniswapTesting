@@ -1,8 +1,8 @@
 //SPDX-License-Identifier: UNLICENSED
 pragma solidity >=0.8.7;
 
-// import './interfaces/IUniswapV2Factory.sol';
-import '@uniswap/v2-core/contracts/interfaces/IUniswapV2Factory.sol';
+import './interfaces/IUniswapV2Factory.sol';
+// import '@uniswap/v2-core/contracts/interfaces/IUniswapV2Factory.sol';
 
 import './libraries/TransferHelper.sol';
 import './libraries/UniswapV2Library.sol';

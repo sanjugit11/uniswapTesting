@@ -2,14 +2,14 @@
 pragma solidity >=0.8.7;
 
 // import './interfaces/IUniswapV2Pair.sol';
-import '@uniswap/v2-core/contracts/interfaces/IUniswapV2Pair.sol';
+import './interfaces/IUniswapV2Pair.sol';
 
 import './UniswapV2ERC20.sol';
 import './libraries/Math.sol';
 import './libraries/UQ112x112.sol';
 import './interfaces/IERC20.sol';
 // import './interfaces/IUniswapV2Factory.sol';
-import '@uniswap/v2-core/contracts/interfaces/IUniswapV2Factory.sol';
+import './interfaces/IUniswapV2Factory.sol';
 
 import './interfaces/IUniswapV2Callee.sol';
 
